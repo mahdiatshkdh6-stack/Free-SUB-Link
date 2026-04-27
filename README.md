@@ -1,4 +1,4 @@
-# V2Hub3:
+د# V2Hub3:
 (تعداد کانفیگ کم - آپدیت هر 2 ساعت)
 
 [Merged Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub3/main/merged)
